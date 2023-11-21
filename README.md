@@ -26,4 +26,4 @@ I'm proficient in advanced Chinese and basic Spanish. 💬🌎
 <img src="https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=FFFFFF"/>
 <br><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco95&show_icons=true&theme=radical)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzxxjjl99)](https://solved.ac/zzxxjjl99/)-->
