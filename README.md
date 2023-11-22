@@ -3,7 +3,8 @@
 <a href="https://www.instagram.com/zzxxjjl99/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
 
 Greetings! 👋
-<br>I'm SeungJu Lee, a passionate entry-level Java developer aspiring to specialize in backend development. 🚀
+
+I'm SeungJu Lee, a passionate entry-level Java developer aspiring to specialize in backend development. 🚀
 <br>I uphold the principle of giving my best to fulfill assigned tasks! 🔥🔥
 
 I'm proficient in advanced Chinese and basic Spanish. 💬🌎
